@@ -11,7 +11,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-|  | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
+| **DOING** | Course | [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)  on edX |  ||
 |  | Course |  [Team Treehouse](https://teamtreehouse.com/tracks) or [Codeschool](https://www.codeschool.com/learn/html-css)'s HTML, CSS Path (Paid) OR Shay Howe's [HTML,CSS](http://learn.shayhowe.com/html-css/) Course |    |   |
 |  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
 |  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
@@ -82,15 +82,3 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 * Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
 * Every week, write a medium post about that week's learnings.
 * Make a habit of coding daily. Try [#100DaysofCode Challenge](http://100daysofcode.com/)
-
-
-## How to use the guide
-See [example repo](https://github.com/shovanch/web-developer-journey)
-
-## Notes
-* This is a template. You can customize it, add or remove courses as per your choices.
-* If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
-* If you have any questions, feel free to ask me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)**
-
-## Attribution
-Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
