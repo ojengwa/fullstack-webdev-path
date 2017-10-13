@@ -1,7 +1,5 @@
 # My Full Stack Web Developer Journey
 
-------
-
 ## [Coding log](log.md)
 
 ## The Fundamentals
