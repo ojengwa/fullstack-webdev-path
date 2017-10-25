@@ -58,8 +58,8 @@
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
 |   | Course | Learn Vue - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) (Paid) |   |    |
-|   | Project | Build a Navigation Menu(https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) |   |    |
-|   | Project | Build an Instant Search widget(https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) |   |    |
+|   | Project | [Build a Navigation Menu](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) |   |    |
+|   | Project | [Build an Instant Search Widget](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) |   |    |
 
 
 ## Backend (Node)
