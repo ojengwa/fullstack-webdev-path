@@ -58,6 +58,8 @@
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
 |   | Course | Learn Vue - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) (Paid) |   |    |
+|   | Project | Project - [Build a Navigation Menu] |   |    |
+|   | Project | Project - [Build an Instant Search widget] |   |    |
 
 
 ## Backend (Node)
