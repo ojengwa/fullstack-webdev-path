@@ -52,6 +52,14 @@
 |   | Project |  Clone the Netflix interface using React - pulling data from [the Movie DB API](https://www.themoviedb.org/documentation/api) |   |    |
 |   | Project | Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React |   |    |
 
+
+## Vue
+
+| Progress | Type | Item | Project(s) | Date |
+|:------:|------|------|------------|:-------:|
+|   | Course | Learn Vue - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) (Paid) |   |    |
+
+
 ## Backend (Node)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
@@ -75,5 +83,4 @@
 * Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
 * Learn about linting. Use linters like [ESLint](https://eslint.org/) for Javascript , [Stylelint](https://stylelint.io/) for CSS in your projects.
 * Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
-* Every week, write a medium post about that week's learnings.
 * Make a habit of coding daily. Try [#100DaysofCode Challenge](http://100daysofcode.com/)
