@@ -1,14 +1,14 @@
-# My Full Stack Web Developer Journey
+# Full Stack Web Developer Journey
 
-## [Coding log](log.md)
+## [Other Learning Resource](resources.md)
 
 ## The Fundamentals
 
 | Progress | Type | Item | Project(s) | Date |
 | :------: | ------ | ------ | ------------ | :-------: |
-| **DOING** | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
-| **DONE** | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  | 6/6/2018 |
-|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
+|  | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) |   |    |
+|  | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  |  |
+|  | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Codecademy - Learn Git](https://www.codecademy.com/learn/learn-git)|   |    |
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
@@ -81,6 +81,6 @@
 * Learn to setup your own local developement environment
 * Deploy completed projects using [Github Pages](https://pages.github.com/) or [surge.sh](http://surge.sh/) (Both front-end only) Or [Glitch](https://glitch.com/) (Works with back-end too)
 * Learn about build tools like [Gulp](https://gulpjs.com/) and include them in projects
-* Learn about linting. Use linters like [ESLint](https://eslint.org/) for Javascript , [Stylelint](https://stylelint.io/) for CSS in your projects.
+* Learn about linting. Use linters like [ESLint](https://eslint.org/) for Javascript , [Pylint](https://pylint.org/) [Stylelint](https://stylelint.io/) for CSS in your projects.
 * Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
 * Make a habit of coding daily. Try [#100DaysofCode Challenge](http://100daysofcode.com/)
