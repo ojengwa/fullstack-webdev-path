@@ -22,7 +22,7 @@
 |   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
 |   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
-|   | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) (Paid) OR [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
+|   | Course |  [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
@@ -30,7 +30,7 @@
 |   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
-|   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) (Paid) |   |
+|   | Course | [Optional] [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/)|   |
 |   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
 |   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
 |   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
@@ -43,7 +43,7 @@
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) (Paid) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) (Paid) OR [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
+|   | Course | [Learn React @Egghead.io](https://egghead.io/courses/start-learning-react) |   |    |
 |   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
@@ -55,15 +55,22 @@
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | Learn Vue - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) (Paid) |   |    |
+|   | Course | Learn Vue - [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) |   |    |
 |   | Project | [Build a Navigation Menu](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) |   |    |
 |   | Project | [Build an Instant Search Widget](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js) |   |    |
 
+## Backend (Python)
+| Progress | Type | Item | Project(s) | Date |
+|:------:|------|------|------------|:-------:|
+|   | The Basics | [Learn Core Python Basics](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567) |   |    |
+|   | Course | [Think Python](https://greenteapress.com/wp/think-python/) OR Codecademy [Learn Python Tutorials](https://www.codecademy.com/learn/learn-python) OR [Fullstack Python](https://www.fullstackpython.com/) |   |    |
+
+_**more: **_ [Click here](https://github.com/CodementorIO/Python-Learning-Resources)
 
 ## Backend (Node)
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | [Learn Node - Wes Bos](https://learnnode.com/) (Paid) OR Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
+|   | Course | Nodeschool.io [Tutorials](https://nodeschool.io/) |   |    |
 |   | Project | FCC Backend Project - [Timestamp Microservice](https://www.freecodecamp.com/challenges/timestamp-microservice) |   |    |
 |   | Project | FCC Backend Project- [Request Header Parser Microservice](https://www.freecodecamp.com/challenges/request-header-parser-microservice) |   |    |
 |   | Project | FCC Backend Project- [URL Shortener Microservice](https://www.freecodecamp.com/challenges/url-shortener-microservice) |   |    |
